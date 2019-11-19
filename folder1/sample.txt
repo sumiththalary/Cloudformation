@@ -1,0 +1,1 @@
+vi is used to create a file and write something in it
